@@ -70,5 +70,5 @@ function changeTextColor(color) {
 }
 
 function clearTerminal() {
-  terminal.value = `Type "help" for a list of commands.\nuser:~$ `;
+  terminal.value = `A terminal website made by Matthew Turner\n\nType "help" for a list of commands.\nuser:~$ `;
 }
